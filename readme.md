@@ -14,9 +14,9 @@ Feel free to change or remove them.
 ## Useful links to get started
 See a preview of the website 
 
-Checkout bootstraps documentation
+Checkout bootstraps documentation : https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-Intro to HTML :
+Intro to HTML : https://www.w3schools.com/html/
 
 My starter kit look something like this :
 ![image](https://user-images.githubusercontent.com/78268558/124354867-e1818b80-dc2b-11eb-8bc2-221457811a48.png)
