@@ -19,3 +19,5 @@ Checkout bootstraps documentation
 Intro to HTML :
 
 My starter kit look something like this :
+![image](https://user-images.githubusercontent.com/78268558/124354867-e1818b80-dc2b-11eb-8bc2-221457811a48.png)
+
